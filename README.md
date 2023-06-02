@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arshad</h1>
 <h3 align="center">A self-taught flutter developer from India</h3>
 
-- 🔭 I’m currently working on [Amplifier](https://github.com/leywino/PitBox)
+- 🔭 I’m currently working on [PitBox](https://github.com/leywino/PitBox)
 
 - 🌱 I’m currently learning **Flutter**
 
