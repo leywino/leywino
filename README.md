@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://leywino.github.io/portfolio/](https://leywino.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://leywino.github.io/portfolio/](http://leywin.xyz/)
 
 - 💬 Ask me about **Flutter & Android**
 
