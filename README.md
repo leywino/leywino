@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PitBox](https://github.com/leywino/PitBox)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [http://leywin.xyz/](http://leywin.xyz/)
 
