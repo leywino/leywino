@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [http://leywin.xyz/](http://leywin.xyz/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://leywino.github.io/portfolio/)
 
 - 💬 Ask me about **Flutter & Android**
 
