@@ -16,6 +16,8 @@
 <a href="https://instagram.com/leywino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leywino" height="30" width="40" /></a>
 </p>
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=leywino)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
