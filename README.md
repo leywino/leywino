@@ -3,13 +3,13 @@
 
 <!-- - 🔭 I’m currently working on [MyMoney](https://github.com/leywino/mymoney) -->
 
-- 🌱 I’m currently learning **Kotlin**
+<!-- - 🌱 I’m currently learning **Kotlin** -->
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://leywino.github.io/portfolio/)
 
 - 💬 Ask me about **Flutter & Android**
 
-- 📫 How to reach me **muhammadarshadv2@gmail.com**
+- 📫 How to reach me **mhdarshaddeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
